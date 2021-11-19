@@ -1,5 +1,9 @@
 # Getting Started
-.
+
+Crear un archivo .env en la raíz del proyecto
+```bash
+REACT_APP_API_KEY=f60911111111111
+```
 
 ## Available Scripts
 
@@ -31,8 +35,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-Crear un archivo .env en la raíz del proyecto
-```bash
-REACT_APP_API_KEY=f60911111111111
-```

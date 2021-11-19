@@ -2,7 +2,7 @@ import React from 'react'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import MovieFavotitesPage from '../../pages/MovieFavotitesPage'
 import MoviesPage from '../../pages/MoviesPage'
-import MovieViewPage from '../../pages/MovieView'
+import MovieViewPage from '../../pages/MovieViewPage'
 import Footer from '../Footer'
 import Header from '../Header'
 
