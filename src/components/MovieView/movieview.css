@@ -1,0 +1,9 @@
+.movie-view-img {
+    min-height: 620px;
+}
+
+@media (max-width: 768px) {
+    .movie-view-img {
+        min-height: 400px;
+    }
+}
